@@ -14,5 +14,7 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
+        <h2>Deuxième commit titre</h2>
+        <p>blablabla</p>
     </body>
 </html>
