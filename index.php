@@ -18,5 +18,6 @@ and open the template in the editor.
         <p>blab 555555 labla</p>
         <h2>Troisième commit - du collaborateur</h2>
         <p>truc</p>
+        <h2>Quatrième commit - par collaborateur</h2>
     </body>
 </html>
