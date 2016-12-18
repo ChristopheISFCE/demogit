@@ -12,9 +12,11 @@ and open the template in the editor.
     <body>
         <h1>Projet pour GIT</h1>
         <?php
-        // put your code here
+        echo("<p> Hello from collaborateur</p>");
         ?>
         <h2>Deuxième commit titre</h2>
-        <p>blablabla</p>
+        <p>blab 555555 labla</p>
+        <h2>Troisième commit - du collaborateur</h2>
+        <p>truc</p>
     </body>
 </html>
